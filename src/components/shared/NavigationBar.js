@@ -25,7 +25,7 @@ class NavigationBar extends Component {
                             <Navbar.Text style={{color:"#fff"}}>
                                 Hello, User 
                             </Navbar.Text>
-                            <img style = {{borderRadius:"100%", margin:"10px"}} width="40px" height="40px" src="https://picsum.photos/id/237/200/300" />
+                            <img style = {{borderRadius:"100%", margin:"10px"}} width="40px" height="40px" src="https://picsum.photos/id/237/200/300" alt="avatar"/>
                         </Nav.Item>
                         <Nav className="mr-auto">
                             <NavLink style={{textDecoration: "none", color:"#fff", padding:"10px"}} to="/" >Home</NavLink>
@@ -36,7 +36,7 @@ class NavigationBar extends Component {
                             <Navbar.Text style={{color:"#fff"}}>
                                 Hello, User 
                             </Navbar.Text>
-                            <img style = {{borderRadius:"100%", margin:"10px"}} width="40px" height="40px" src="https://picsum.photos/id/237/200/300" />
+                            <img style = {{borderRadius:"100%", margin:"10px"}} width="40px" height="40px" src="https://picsum.photos/id/237/200/300" alt="avatar"/>
                         </Nav.Item>
                         <Button variant="outline-info" onClick={this.handleLogout}>Logout</Button>
                     </Navbar.Collapse>
