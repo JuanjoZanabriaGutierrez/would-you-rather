@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Card, Row, Col, ProgressBar } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 
 class NotFound extends Component {
 	state = {};

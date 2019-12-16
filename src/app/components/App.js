@@ -16,7 +16,7 @@ import Question from './pages/question/Question';
 import NotFound from './pages/not-found/NotFound';
 import { handleInitialData } from '../actions/shared';
 import { connect } from 'react-redux';
-import LoadingBar from 'react-redux-loading';
+import LoadingBar from 'react-redux-loading-bar';
 
 class App extends Component {
 	componentDidMount() {

@@ -9,7 +9,7 @@ class Home extends Component {
 	render() {
 		const { unansweredQuestions, answeredQuestions } = this.props;
 		return (
-			<Row className='justify-content-center my-5'>
+			<Row className='home justify-content-center my-5'>
 				<Col lg='8'>
 					<Tabs
 						style={{ border: 'none', flexWrap: 'nowrap' }}
