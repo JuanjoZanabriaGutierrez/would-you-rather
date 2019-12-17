@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Udacity-WouldYouRather/precache-manifest.1c5784906063b47e168d0b03f2c40922.js"
+  "/Udacity-WouldYouRather/precache-manifest.41409cae23b8ff53c7602f1dd358224c.js"
 );
 
 self.addEventListener('message', (event) => {
