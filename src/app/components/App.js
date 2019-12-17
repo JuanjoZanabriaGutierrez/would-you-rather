@@ -2,6 +2,7 @@ import React, { Component, Fragment } from 'react';
 import {
 	BrowserRouter as Router,
 	Route,
+	HashRouter,
 	Redirect,
 	Switch
 } from 'react-router-dom';
@@ -26,7 +27,7 @@ class App extends Component {
 	state = {};
 	render() {
 		return (
-			<Router>
+			<HashRouter>
 				<Fragment>
 					<NavigationBar />
 					<LoadingBar style={{ backgroundColor: '#17a2b8' }} />
@@ -46,7 +47,7 @@ class App extends Component {
 						)}
 					</Container>
 				</Fragment>
-			</Router>
+			</HashRouter>
 		);
 	}
 }
