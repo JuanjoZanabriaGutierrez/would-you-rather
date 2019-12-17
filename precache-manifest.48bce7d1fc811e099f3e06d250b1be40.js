@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8005827f5c8c526cdb4a3fd31a8f02f",
+    "revision": "8eb767ca7894b2ec197e32e73f4e577b",
     "url": "/Udacity-WouldYouRather/index.html"
   },
   {
-    "revision": "a1208b27078f7a32eaf8",
+    "revision": "e319ddbac27a126c135a",
     "url": "/Udacity-WouldYouRather/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "a8271b110995799edee4",
+    "revision": "e469bfa28164ad43cf76",
     "url": "/Udacity-WouldYouRather/static/css/main.2d05c62f.chunk.css"
   },
   {
-    "revision": "a1208b27078f7a32eaf8",
-    "url": "/Udacity-WouldYouRather/static/js/2.94832f45.chunk.js"
+    "revision": "e319ddbac27a126c135a",
+    "url": "/Udacity-WouldYouRather/static/js/2.4b7ef4dd.chunk.js"
   },
   {
     "revision": "86afaa925e0f432774bf95b19b6933fb",
-    "url": "/Udacity-WouldYouRather/static/js/2.94832f45.chunk.js.LICENSE"
+    "url": "/Udacity-WouldYouRather/static/js/2.4b7ef4dd.chunk.js.LICENSE"
   },
   {
-    "revision": "a8271b110995799edee4",
-    "url": "/Udacity-WouldYouRather/static/js/main.285ec6f3.chunk.js"
+    "revision": "e469bfa28164ad43cf76",
+    "url": "/Udacity-WouldYouRather/static/js/main.757d84c4.chunk.js"
   },
   {
     "revision": "0651f715b568f42684ec",
