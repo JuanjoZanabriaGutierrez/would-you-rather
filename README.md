@@ -1,5 +1,10 @@
 # Would You Rather Project
 
+See the project in action:
+
+https://juanjozanabriagutierrez.github.io/Udacity-WouldYouRather
+
+
 To get started developing right away:
 
 * install all project dependencies with `npm install`
