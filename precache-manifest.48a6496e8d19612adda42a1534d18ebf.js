@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ee24737fc6a89b71dbe50b70115b577",
+    "revision": "39a9b12a5ac2baed97b0058cf97b8386",
     "url": "/udacity-wouldYouRather/index.html"
   },
   {

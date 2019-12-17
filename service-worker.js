@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/udacity-wouldYouRather/precache-manifest.283287c2d35238db259eb4b2b2ebd99c.js"
+  "/udacity-wouldYouRather/precache-manifest.48a6496e8d19612adda42a1534d18ebf.js"
 );
 
 self.addEventListener('message', (event) => {
