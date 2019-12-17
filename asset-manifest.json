@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/udacity-wouldYouRather/static/css/main.2d05c62f.chunk.css",
+    "main.js": "/udacity-wouldYouRather/static/js/main.f4cf61c2.chunk.js",
+    "main.js.map": "/udacity-wouldYouRather/static/js/main.f4cf61c2.chunk.js.map",
+    "runtime-main.js": "/udacity-wouldYouRather/static/js/runtime-main.58a5eaa4.js",
+    "runtime-main.js.map": "/udacity-wouldYouRather/static/js/runtime-main.58a5eaa4.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/udacity-wouldYouRather/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.94832f45.chunk.js": "/udacity-wouldYouRather/static/js/2.94832f45.chunk.js",
+    "static/js/2.94832f45.chunk.js.map": "/udacity-wouldYouRather/static/js/2.94832f45.chunk.js.map",
+    "index.html": "/udacity-wouldYouRather/index.html",
+    "precache-manifest.fec6e2ca1548d189c14bd8a5854fee73.js": "/udacity-wouldYouRather/precache-manifest.fec6e2ca1548d189c14bd8a5854fee73.js",
+    "service-worker.js": "/udacity-wouldYouRather/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/udacity-wouldYouRather/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.2d05c62f.chunk.css.map": "/udacity-wouldYouRather/static/css/main.2d05c62f.chunk.css.map",
+    "static/js/2.94832f45.chunk.js.LICENSE": "/udacity-wouldYouRather/static/js/2.94832f45.chunk.js.LICENSE",
+    "static/media/logo.svg": "/udacity-wouldYouRather/static/media/logo.ee7cd8ed.svg",
+    "static/media/trofeoBronce.svg": "/udacity-wouldYouRather/static/media/trofeoBronce.087a0232.svg",
+    "static/media/trofeoOro.svg": "/udacity-wouldYouRather/static/media/trofeoOro.5480f1e0.svg",
+    "static/media/trofeoPlata.svg": "/udacity-wouldYouRather/static/media/trofeoPlata.ec05134f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58a5eaa4.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.94832f45.chunk.js",
+    "static/css/main.2d05c62f.chunk.css",
+    "static/js/main.f4cf61c2.chunk.js"
+  ]
+}
